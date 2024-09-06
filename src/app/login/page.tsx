@@ -44,7 +44,7 @@ export default function LoginPage() {
     }, [user]);
 
     return (
-    <div className="flex flex-col items-center justify-center min-h-screen py-2">
+    <div className="flex flex-col items-center justify-center min-h-screen py-2 bg-gradient-to-r from-blue-500 to-peach-500">
         <h1>{loading ? "Processing" : "Login"}</h1>
         <hr />
         
