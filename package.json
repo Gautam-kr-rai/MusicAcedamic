@@ -9,11 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@tabler/icons-react": "^3.14.0",
+    "@tabler/icons-react": "^3.16.0",
     "axios": "^1.7.7",
     "bcryptjs": "^2.4.3",
     "clsx": "^2.1.1",
-    "framer-motion": "^11.5.2",
+    "framer-motion": "^11.5.4",
     "jsonwebtoken": "^9.0.2",
     "mini-svg-data-uri": "^1.4.4",
     "mongoose": "^8.6.1",
